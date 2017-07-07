@@ -1,0 +1,13 @@
+{
+  "comments": [{
+    "id": 1,
+    "body": "It takes a Jacobian",
+    "createdAt": "2016-02-18T03:22:56.637Z",
+    "author": {
+      "username": "jake",
+      "bio": "I work at statefarm",
+      "image": "https://i.stack.imgur.com/xHWG8.jpg",
+      "following": false
+    }
+  }]
+}
